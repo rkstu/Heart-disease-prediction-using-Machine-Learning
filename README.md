@@ -125,4 +125,5 @@ The following are the features we'll use to predict our target variable (heart d
 
 **Note:** No personal identifiable information (PPI) can be found in the dataset.
 
-It's a good idea to save these to a Python dictionary or in an external file, so we can look at them later without coming back here.
+
+### Check out [Predicting Heart Disease using Machine Learning]([https://github.com/rkstu/Predicting-the-Sale-Price-of-Bulldozers-using-supervised-Learning/blob/main/Predicting-the-Sale-Price-of-Bulldozers-using-supervised-Learning.ipynb](https://github.com/rkstu/Heart-disease-prediction-using-Machine-Learning)) file in this repository for code and detailed explanation
