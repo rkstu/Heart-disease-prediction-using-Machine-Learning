@@ -11,10 +11,9 @@ Classification involves deciding whether a sample is part of one class or anothe
 
 ## What we'll end up with
 
-Since we already have a dataset, we'll approach the problem with the following machine learning modelling framework.
+Since we already have a dataset, we'll approach the problem.
 
 |:--:| 
-| 6 Step Machine Learning Modelling Framework |
 
 More specifically, we'll look at the following topics.
 
@@ -67,7 +66,7 @@ The evaluation metric is something you might define at the start of a project.
 
 Since machine learning is very experimental, you might say something like, 
 
-> If we can reach 95% accuracy at predicting whether or not a patient has heart disease during the proof of concept, we'll pursure this project.
+> Goal is to reach 95% accuracy at predicting whether or not a patient has heart disease during the proof of concept.
 
 The reason this is helpful is it provides a rough goal for a machine learning engineer or data scientist to work towards.
 
